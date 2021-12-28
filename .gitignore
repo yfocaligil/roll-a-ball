@@ -1,0 +1,6 @@
+Assets/
+library/
+Logs/
+*.mdf
+*.ldf
+Temp/
