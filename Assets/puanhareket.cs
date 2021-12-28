@@ -10,7 +10,7 @@ public class puanhareket : MonoBehaviour
         
     }
 
-    // Update is called once per frame
+    // Update is called once per frame okanla takılıyoz
     void Update()
     {
         Vector3 vector=new Vector3(0.1f,0.1f,0.1f);

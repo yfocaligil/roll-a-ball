@@ -40,6 +40,7 @@ public class TopKontrol : MonoBehaviour
         if(skor==7)
         {
             bitisyazisi.text="OYUN BİTTİ";
+            Time.timeScale=0;
             
         }
     }
